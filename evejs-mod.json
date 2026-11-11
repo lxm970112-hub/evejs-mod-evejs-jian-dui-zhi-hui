@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "au-mw7jbtnpunkx",
+    "keyId": "c9a95855e5dc",
+    "name": "雪风"
+  },
+  "category": "玩法",
+  "changelog": "自用，还是修复",
+  "conflicts": [],
+  "delisted": false,
+  "description": "一键召集虚拟舰队：火力进中队1、后勤进中队2；聊天命令或舰队广播指挥集火/跟随/跃迁/摇修。虚拟船已归入玩家公司并标记舰队角色，总览不再显示为红怪。",
+  "displayName": "舰队指挥",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/lxm970112-hub/evejs-mod-evejs-jian-dui-zhi-hui/releases/download/v1.0.12/evejs-jian-dui-zhi-hui-1.0.12.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261028.x"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "evejs-jian-dui-zhi-hui",
+  "publishedAt": "2026-11-11",
+  "readme": [],
+  "repo": "https://github.com/lxm970112-hub/evejs-mod-evejs-jian-dui-zhi-hui",
+  "requiresRestart": true,
+  "sha256": "3489652f5b3bfdfbd221cfb5cc9b866fe823f651c1fee017ab62c7d6a35a686e",
+  "sizeBytes": 78762,
+  "tags": [
+    "舰队",
+    "NPC",
+    "集火",
+    "遥修",
+    "命令"
+  ],
+  "version": "1.0.12"
+}
