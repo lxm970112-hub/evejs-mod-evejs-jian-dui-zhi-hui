@@ -5,7 +5,7 @@
     "name": "雪风"
   },
   "category": "玩法",
-  "changelog": "自用，还是修复",
+  "changelog": "",
   "conflicts": [],
   "delisted": false,
   "description": "一键召集虚拟舰队：火力进中队1、后勤进中队2；聊天命令或舰队广播指挥集火/跟随/跃迁/摇修。虚拟船已归入玩家公司并标记舰队角色，总览不再显示为红怪。",
@@ -14,22 +14,27 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/lxm970112-hub/evejs-mod-evejs-jian-dui-zhi-hui/releases/download/v1.0.12/evejs-jian-dui-zhi-hui-1.0.12.zip"
+      "url": "https://github.com/lxm970112-hub/evejs-mod-evejs-jian-dui-zhi-hui/releases/download/v1.0.13/evejs-jian-dui-zhi-hui-1.0.13.zip"
     }
   ],
   "evejsVersions": [
     "261028.x"
   ],
   "featured": false,
-  "highlights": [],
+  "highlights": [
+    "**火力**：真人开，模组不召唤、不接管；只把舰队里所有人（真人火力 + 后勤）加入**关注列表**；",
+    "**后勤**：可以召唤**任意数量**的 AI 后勤（英文命令 `/jiandui logi 5`），",
+    "**关注列表**里有人掉血就自动摇修；先挂 **2 个遥修**，修不上来再把**剩余遥修**全部挂上；",
+    "真人火力广播 `HealArmor` / `HealCapacitor`，AI 后勤优先处理。"
+  ],
   "history": [],
   "id": "evejs-jian-dui-zhi-hui",
-  "publishedAt": "2026-11-11",
+  "publishedAt": "2026-11-12",
   "readme": [],
   "repo": "https://github.com/lxm970112-hub/evejs-mod-evejs-jian-dui-zhi-hui",
   "requiresRestart": true,
-  "sha256": "3489652f5b3bfdfbd221cfb5cc9b866fe823f651c1fee017ab62c7d6a35a686e",
-  "sizeBytes": 78762,
+  "sha256": "fca239c4dc31797ab1896af0206c75a3f21082a8d2394a8c3f9242c2c84ae3a5",
+  "sizeBytes": 98499,
   "tags": [
     "舰队",
     "NPC",
@@ -37,5 +42,5 @@
     "遥修",
     "命令"
   ],
-  "version": "1.0.12"
+  "version": "1.0.13"
 }
